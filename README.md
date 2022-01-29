@@ -3,4 +3,5 @@
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on a Minecraft Client
 - 📫 How to reach me: My Discord is ExyrusYT#2915, if you need to contact me, DM me there.
+
 oh yeah also check my repos for some leaked clients
